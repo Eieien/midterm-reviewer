@@ -1,5 +1,5 @@
 # Loyalty Award
-![[Pasted image 20250309113310.png]]
+[[Pasted image 20250309113310.png]]
 #### Sample output 1: 
 ```
 Input Number of Employees:3
